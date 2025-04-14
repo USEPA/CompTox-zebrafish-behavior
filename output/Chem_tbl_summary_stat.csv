@@ -1,0 +1,62 @@
+"","name","hitsum","bmd.min","bmd.med","bmd.mean","bmd.sd","toc.mean","toc.sd","max.conc"
+"1","5,5-Diphenylhydantoin",2,0.35,0.88,0.88,0.74,1.17,0.17,40
+"2","5-Fluorouracil",2,40.53,41.71,41.71,1.66,1.29,0.05,120
+"3","6-Aminonicotinamide",4,12.4,12.77,17.91,10.53,1.69,0.25,120
+"4","6-Propyl-2-thiouracil",0,NA,NA,NA,NA,NA,NA,120
+"5","Acetaminophen",0,NA,NA,NA,NA,NA,NA,120
+"6","Acrylamide",2,0.01,0.01,0.01,0.01,1.17,0,120
+"7","Aldicarb",0,NA,NA,NA,NA,NA,NA,0.4096
+"8","Amoxicillin",0,NA,NA,NA,NA,NA,NA,120
+"9","Amphetamine",3,0.14,0.17,5.38,9.05,1.17,0.13,40
+"10","Arsenic",0,NA,NA,NA,NA,NA,NA,120
+"11","Bis(tributyltin) oxide",1,0,0,0,NA,1.17,NA,0.03072
+"12","Bisphenol A (BPA)",2,15.15,15.74,15.74,0.84,1.14,0.06,40
+"13","Cadmium chloride",0,NA,NA,NA,NA,NA,NA,0.1228
+"14","Caffeine",0,NA,NA,NA,NA,NA,NA,120
+"15","Captopril",0,NA,NA,NA,NA,NA,NA,120
+"16","Carbamazepine",0,NA,NA,NA,NA,NA,NA,40
+"17","Chloramben",0,NA,NA,NA,NA,NA,NA,12
+"18","Chlorpyrifos",4,0.16,0.4,0.69,0.75,1.11,0.12,4
+"19","Chlorpyrifos oxon",0,NA,NA,NA,NA,NA,NA,0.0983
+"20","Cocaine base",2,105.55,109.71,109.71,5.89,1.16,0.04,120
+"21","Colchicine",0,NA,NA,NA,NA,NA,NA,12
+"22","Cotinine",0,NA,NA,NA,NA,NA,NA,30
+"23","Cyclophosphamide",0,NA,NA,NA,NA,NA,NA,120
+"24","Cytosine arabinoside",0,NA,NA,NA,NA,NA,NA,120
+"25","Di(2-ethylhexyl)phthalate (DEHP)",0,NA,NA,NA,NA,NA,NA,120
+"26","Deltamethrin",0,NA,NA,NA,NA,NA,NA,0.04
+"27","Diethylstilbesterol",2,0.21,0.73,0.73,0.75,1.04,0.05,3
+"28","Dexamethazone",0,NA,NA,NA,NA,NA,NA,4
+"29","Diazepam",3,0,0.07,0.14,0.19,1.9,0.55,12
+"30","Dieldrin",1,0.05,0.05,0.05,NA,1.07,NA,0.12
+"31","Diethylene glycol",0,NA,NA,NA,NA,NA,NA,120
+"32","D-sorbitol",3,0.01,0.52,13.23,22.46,1.39,0.09,120
+"33","Fluconazole",0,NA,NA,NA,NA,NA,NA,120
+"34","Fluoxetine",5,0.08,0.22,0.45,0.44,1.94,0.46,4
+"35","Glyphosate",0,NA,NA,NA,NA,NA,NA,120
+"36","Haloperidol",0,NA,NA,NA,NA,NA,NA,1.2
+"37","Heptachlor",3,0.34,0.41,0.42,0.09,1.32,0.27,1.2
+"38","Heptachlor epoxide",1,0,0,0,NA,1.23,NA,0.12
+"39","Hexachlorophene",0,NA,NA,NA,NA,NA,NA,1.2
+"40","Hydoxyurea",0,NA,NA,NA,NA,NA,NA,120
+"41","Isoniazid",0,NA,NA,NA,NA,NA,NA,30
+"42","Lead acetate",0,NA,NA,NA,NA,NA,NA,0.4
+"43","Loperamide",4,9,10.21,11.31,3.2,1.68,0.41,40
+"44","Maneb",0,NA,NA,NA,NA,NA,NA,40
+"45","Manganese",0,NA,NA,NA,NA,NA,NA,40
+"46","Methotrexate",0,NA,NA,NA,NA,NA,NA,40
+"47","Naloxon",0,NA,NA,NA,NA,NA,NA,120
+"48","Nicotine",0,NA,NA,NA,NA,NA,NA,10
+"49","Paraquat",5,0.41,2.63,1.87,1.27,1.44,0.26,120
+"50","Polybrominated diphenyl ether (PBDE)-47",3,0.72,0.8,0.86,0.17,2.15,0.4,4
+"51","Permethrin",0,NA,NA,NA,NA,NA,NA,3.84
+"52","Phenobarbital",1,0.01,0.01,0.01,NA,1.13,NA,120
+"53","Phenol",0,NA,NA,NA,NA,NA,NA,120
+"54","Saccharin",0,NA,NA,NA,NA,NA,NA,120
+"55","Sodium benzoate",0,NA,NA,NA,NA,NA,NA,120
+"56","Sodium fluoride",0,NA,NA,NA,NA,NA,NA,120
+"57","Tebuconazole",3,0.75,1.13,1.86,1.59,1.27,0.22,12
+"58","Terbutaline",0,NA,NA,NA,NA,NA,NA,120
+"59","Thalidomide",0,NA,NA,NA,NA,NA,NA,120
+"60","Triethyltin",1,0,0,0,NA,1.06,NA,0.12
+"61","Valproate",0,NA,NA,NA,NA,NA,NA,40

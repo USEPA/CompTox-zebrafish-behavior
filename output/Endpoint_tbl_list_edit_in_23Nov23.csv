@@ -1,0 +1,14 @@
+,endp,end.cat,Activity Type,Experimental Phase
+1,avgS_L,Commonly studied,Average Speed,Light
+8,avgS_D,Commonly studied,Average Speed,Dark
+12,avgS_T,Commonly studied,Average Speed,Both
+13,AUC_r,Commonly studied,Average Speed,Both
+2,hbt1_L,Expanded,Habituation,Light
+3,hbt2_L,Expanded,Habituation,Light
+9,hbt1_D,Expanded,Habituation,Dark
+10,hbt2_D,Expanded,Habituation,Dark
+4,RoA_L,Expanded,Range of Activity,Light
+11,RoA_D,Expanded,Range of Activity,Dark
+5,strtlA,Expanded,Startle Response,Both
+6,strtlAavg,Expanded,Startle Response,Both
+7,strtlF,Expanded,Startle Response,Dark
